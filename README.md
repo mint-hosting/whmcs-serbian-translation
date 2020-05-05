@@ -17,4 +17,4 @@ With every new WHMCS version we will check and update the translation if needed.
 
 Author Information
 ------------------
-This translation was made and is actively maintained by Mint Hosting (Mint Hosting)](https://mint.rs)
+This translation was made and is actively maintained by [Mint Hosting](https://mint.rs)
