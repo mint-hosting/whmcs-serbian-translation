@@ -210,7 +210,7 @@ $_LANG['clientareastatus'] = "Status";
 $_LANG['clientareasuspended'] = "Suspendovan";
 $_LANG['clientareaterminated'] = "Terminiran";
 $_LANG['clientareaticktoenable'] = "Potvrdi";
-$_LANG['clientareatitle'] = "Moj Mint korisnički servis";
+$_LANG['clientareatitle'] = "Korisnički servis";
 $_LANG['clientareaunlimited'] = "Neograničeno";
 $_LANG['clientareaupdatebutton'] = "Ažuriraj";
 $_LANG['clientareaupdateyourdetails'] = "Izmenite vaše podatke";
@@ -565,7 +565,7 @@ $_LANG['ordererrortransfersecret'] = "Morate upisati šifru za transfer";
 $_LANG['ordererroruserexists'] = "Korisnik sa navedenom e-mail adresom već postoji";
 $_LANG['orderexistinguser'] = "Ja sam postojeći korisnik i želim da dodam ovu porudžbinu na moj nalog";
 $_LANG['orderfailed'] = "Poručivanje nije uspelo";
-$_LANG['orderfinalinstructions'] = "Ukoliko imate pitanja u vezi vaše porudžbine, molimo da otvorite tiket iz Moj Mint korisničkog servisa i u tiketu naznačite broj porudžbine.";
+$_LANG['orderfinalinstructions'] = "Ukoliko imate pitanja u vezi vaše porudžbine, molimo da otvorite tiket iz korisničkog servisa i u tiketu naznačite broj porudžbine.";
 $_LANG['orderfree'] = "BESPLATNO!";
 $_LANG['orderfreedomainappliesto'] = "važi samo za sledeće opcije";
 $_LANG['orderfreedomaindescription'] = "za izabrane uslove plaćanja";
@@ -1219,7 +1219,7 @@ $_LANG['quotesintro'] = "Na ovom mestu nalaze se sve ponude koje smo generisali 
 $_LANG['emailstagline'] = "Šaljemo vam kopiju svih poslatih e-mail poruka...";
 $_LANG['supportticketsintro'] = "Ovde možete otvoriti tikete i pratiti sve aktivnosti vezane za njih...";
 $_LANG['addfundsintro'] = "Dodajte iznos depozita unapred";
-$_LANG['registerintro'] = "Na ovoj strani možete da izvršite registraciju korisničkog naloga na Moj Mint korisničkom servisu. Molimo vas da popunite polja ispod kako bi uspešno završili proces registracije.  Ukoliko  nalog registrujete za potrebe pravnog lica, molimo vas da obavezno popunite naziv pravnog lica, PIB i matični broj.";
+$_LANG['registerintro'] = "Na ovoj strani možete da izvršite registraciju korisničkog naloga na korisničkom servisu. Molimo vas da popunite polja ispod kako bi uspešno završili proces registracije.  Ukoliko  nalog registrujete za potrebe pravnog lica, molimo vas da obavezno popunite naziv pravnog lica, PIB i matični broj.";
 $_LANG['masspayintro'] = "Platite sve predračune prikazane ispod u jednoj transakciji. Molimo vas izaberite način plaćanja";
 $_LANG['domaincheckerintro'] = "Vaša potraga za hostingom počinje ovde. Proverite da li je vaš domen slobodan...";
 $_LANG['networkstatusintro'] = "Informacije i obaveštenja o satusu usluge i mreži";
@@ -1351,7 +1351,7 @@ $_LANG['clientgroupdiscount'] = "Popust za klijente";
 $_LANG['billableitemshours'] = "Sati";
 $_LANG['billableitemshour'] = "Sat";
 
-$_LANG['invoicefilename'] = "Mint-invrcpt-";
+$_LANG['invoicefilename'] = "Invrcpt-";
 $_LANG['quotefilename'] = "Ponuda-";
 
 # Domain Addons
@@ -1980,7 +1980,7 @@ $_LANG['orderForm']['errorNoProductGroup'] = "Nije moguće učitati grupe usluga
 $_LANG['orderForm']['errorNoProducts'] = "Trenutno nema prikazanih usluga u grupi";
 
 $_LANG['cloudSlider']['feature01Title'] = "Maksimalno vreme dostupnosti servera";
-$_LANG['cloudSlider']['feature01Description'] = "Dostupnost servera predstavlja stvar od krucijalne važnosti za svaki biznis. Fajlovi i baze podataka, kao i e-mail nalozi koji se nalaze na serveru, značajne su u svakodnevnom radu, te čak i minimalno vreme neaktivnosti i prekida usluge može imati nesagledive posledice na produktivnost, prodaju, zaposlene i krajnje klijente. Iz tog razloga Mint obezbeđuje maksimalno vreme dostupnosti servera garantujući nesmetano funkcionisanje usluge i zadovoljne klijente.";
+$_LANG['cloudSlider']['feature01Description'] = "Dostupnost servera predstavlja stvar od krucijalne važnosti za svaki biznis. Fajlovi i baze podataka, kao i e-mail nalozi koji se nalaze na serveru, značajne su u svakodnevnom radu, te čak i minimalno vreme neaktivnosti i prekida usluge može imati nesagledive posledice na produktivnost, prodaju, zaposlene i krajnje klijente. Iz tog razloga obezbeđujemo maksimalno vreme dostupnosti servera garantujući nesmetano funkcionisanje usluge i zadovoljne klijente.";
 $_LANG['cloudSlider']['feature01DescriptionTwo'] = "Garantujemo 99,9% dostupnosti servera, bez obzira na uslugu.";
 $_LANG['cloudSlider']['feature02Title'] = "Isporučivanje podataka širom sveta";
 $_LANG['cloudSlider']['feature02Description'] = "Naše usluge su na najvišem nivou kvaliteta i pouzdanosti zahvaljujući stotinama servera i data centara koji se nalaze širom sveta. Zahvaljujući našoj usluzi vaši klijenti i potrošači mogu pristupiti vašem sajtu u svakom momentu, bilo gde da se nalaze. Pored toga, pružamo vam i mogućnost praćenja i analize vašeg Web sajta koja obuhvata, između ostalog, i analizu i praćenje saobraćaja na sajtu, zatim geografsko poreklo osoba koji posećuju vaš sajt, koje stranice su pregledali i koliko su se dugo zadržali na vašoj Web prezentaciji. Pored ovih usluga obezbeđujemo i uslugu registracije domena.";
